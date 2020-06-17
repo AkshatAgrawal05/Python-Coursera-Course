@@ -30,5 +30,5 @@
 
 
 * linguist-vendored
-*.js linguist-vendored=false
-*.json linguist-vendored=false
+*.js linguist-vendored=true
+*.json linguist-vendored=true
