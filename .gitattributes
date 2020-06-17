@@ -27,3 +27,8 @@
 # with the python modules ``pickle``, ``dbm.*``,
 # ``shelve``, ``marshal``, ``anydbm``, & ``bsddb``
 # (among others).
+
+
+* linguist-vendored
+*.js linguist-vendored=false
+*.json linguist-vendored=false
